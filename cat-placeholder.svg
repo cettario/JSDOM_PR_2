@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" role="img" aria-labelledby="title">
+  <title id="title">Иллюстрация кота</title>
+  <ellipse cx="197" cy="308" rx="118" ry="17" fill="#b7b3a7" opacity=".20"/>
+  <path d="M99 131 113 48l74 47c16-3 34-4 51 0l75-47 11 84c15 20 22 45 18 72-6 63-65 111-142 111-80 0-141-49-145-112-2-28 14-54 44-72Z" fill="#eecb9b" stroke="#71594a" stroke-width="7" stroke-linejoin="round"/>
+  <path d="m121 74-4 53 50-27Z" fill="#d59f92"/><path d="m295 76 2 53-50-29Z" fill="#d59f92"/>
+  <path d="M148 180q15-15 30 0M224 180q15-15 30 0" fill="none" stroke="#5b5149" stroke-width="7" stroke-linecap="round"/>
+  <path d="m194 207 13 0-6 11Z" fill="#be7575"/><path d="M201 218q-8 18-26 9M201 218q8 18 26 9" stroke="#5b5149" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M105 217 47 205M111 232 45 235M293 217 353 207M289 232 358 233" stroke="#5b5149" stroke-width="4" stroke-linecap="round"/>
+  <path d="M151 121q52-27 101 0" fill="none" stroke="#dfae82" stroke-width="13" stroke-linecap="round"/>
+</svg>
